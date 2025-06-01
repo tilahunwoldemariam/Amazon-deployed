@@ -1,0 +1,22 @@
+.loaderContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  background-color: #fff;
+}
+
+.loaderContent {
+  text-align: center;
+}
+
+.loaderBar {
+  margin: 0 auto;
+}
+
+.loaderText {
+  margin-top: 16px;
+  font-size: 18px;
+  color: #4b5563;
+  font-family: Arial, Helvetica, sans-serif;
+}

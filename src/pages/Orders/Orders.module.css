@@ -1,0 +1,31 @@
+/* for the section that contains everything */
+.container{
+    background-color: #efeeee;
+    padding: 30px;
+}
+
+.orders__container{
+    background-color: white;
+    padding: 20px;
+}
+
+.orders__container h2 {
+    padding: 20px;
+    border-bottom: 2px solid #d49644;
+}
+
+.optional {
+    padding: 20px;
+}
+
+.orders__container p {
+    padding: 12px;
+}
+
+.orders__container img{
+    width: 100px !important
+}
+
+.orders__container div {
+    height: auto !important;
+}
