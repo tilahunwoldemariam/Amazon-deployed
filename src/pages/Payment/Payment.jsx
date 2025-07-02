@@ -104,7 +104,7 @@ function Payment() {
             <div>
               <div>{user?.email}</div>
               <div>123 </div>
-              <div>Chicago, USA</div>
+              <div>Houston, Tx</div>
             </div>
           </div>
 
